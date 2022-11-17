@@ -1,1 +1,1 @@
-# yo-generator-tv-cpp
+# generator-tv-cpp
